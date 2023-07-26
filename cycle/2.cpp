@@ -26,4 +26,6 @@ int main()
     count--;
 
     cout << "Вы ввели символ " << count << " раз(а)." << endl;
+
+    return 0;
 }
